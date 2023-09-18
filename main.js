@@ -1,0 +1,1 @@
+document.querySelector('.btn').addEventListener('click', function () { document.querySelector('.hello').textContent = 'Goodbye World' });
